@@ -6,6 +6,7 @@ Learning **Machine Learning (ML)** in general and **Deep Learning (DL)** in part
 ## Prerequisites
 - Basic knowledge of Python programming
 - Linear algebra and statistics
+- Previously familiar with the frameworks numpy, pandas, sklearn, and matplotlib.
 - An endless passion for ML/DL
 
 ## Installation
@@ -17,7 +18,15 @@ cd deep-learning-tutorial
 ```
 Next, you need to install Anaconda/Miniconda on your computer. After that, create a virtual environment and install the required frameworks using the following commands:
 ```bash
-cd path/to/your/folder
-git clone git@github.com:khoaphamanh/deep-learning-tutorial.git
-cd deep-learning-tutorial
+conda env create -f environment.yml
+conda activate deep-learning-tutorial
 ```
+
+## Tutorials
+Each tutorial for a specific field will be stored in specific directories such as:
+- deep_learning: Focuses on deep learning algorithms from basic to advanced.
+- metrics: Metrics to evaluate model performance.
+- data_preprocessing: Emphasizes data preprocessing algorithms.
+- experiment_tracking: How to visualize model results and performance.
+- interpretable_ml: Explains how ML algorithms make decisions.
+
