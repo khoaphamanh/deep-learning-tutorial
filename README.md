@@ -7,3 +7,17 @@ Learning **Machine Learning (ML)** in general and **Deep Learning (DL)** in part
 - Basic knowledge of Python programming
 - Linear algebra and statistics
 - An endless passion for ML/DL
+
+## Installation
+To get started, clone this repository to your local machine:
+```bash
+cd path/to/your/folder
+git clone git@github.com:khoaphamanh/deep-learning-tutorial.git
+cd deep-learning-tutorial
+```
+Next, you need to install Anaconda/Miniconda on your computer. After that, create a virtual environment and install the required frameworks using the following commands:
+```bash
+cd path/to/your/folder
+git clone git@github.com:khoaphamanh/deep-learning-tutorial.git
+cd deep-learning-tutorial
+```
