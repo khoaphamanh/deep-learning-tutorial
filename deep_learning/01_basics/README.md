@@ -1,6 +1,6 @@
 # Linear Regression
 
-![Image 1: Linear Regression](lr_img.jpeg)
+<img src="lr_img.jpeg" alt="Image 1: Linear Regression" width="800" />
 
 Linear Regression (LR) is a statistical supervised learning technique to predict the quantitative variable by forming a linear relationship with one or more independent features.
 
