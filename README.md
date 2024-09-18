@@ -30,6 +30,8 @@ Each tutorial for a specific field will be stored in specific directories such a
 - experiment_tracking: How to visualize model results and performance.
 - interpretable_ml: Explains how ML algorithms make decisions.
 
+In each subfolder of the tutorials, there will always be a **README.md** file to describe what we want to convey. Everything will be written in an easy-to-understand manner so that even beginners can approach the problem as easily as possible.
+
 ## Contributing
 
 We always welcome contributions or suggestions for improvements. If you would like to add new tutorials, spot any errors, or help make our code cleaner, please don't hesitate to contact us via the email listed in the profile bio.
