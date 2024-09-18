@@ -17,4 +17,31 @@ dependencies:
   - wheel=0.44.0=py311hecd8cb5_0
   - xz=5.4.6=h6c40b1e_1
   - zlib=1.2.13=h4b97444_1
+  - pip:
+      - contourpy==1.3.0
+      - cycler==0.12.1
+      - filelock==3.16.1
+      - fonttools==4.53.1
+      - fsspec==2024.9.0
+      - jinja2==3.1.4
+      - joblib==1.4.2
+      - kiwisolver==1.4.7
+      - markupsafe==2.1.5
+      - matplotlib==3.9.2
+      - mpmath==1.3.0
+      - networkx==3.3
+      - numpy==2.1.1
+      - packaging==24.1
+      - pillow==10.4.0
+      - pyparsing==3.1.4
+      - python-dateutil==2.9.0.post0
+      - scikit-learn==1.5.2
+      - scipy==1.14.1
+      - six==1.16.0
+      - sympy==1.13.2
+      - threadpoolctl==3.5.0
+      - torch==2.2.2
+      - torchaudio==2.2.2
+      - torchvision==0.17.2
+      - typing-extensions==4.12.2
 prefix: /opt/anaconda3/envs/deep-learning-tutorial
