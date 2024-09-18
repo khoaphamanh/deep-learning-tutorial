@@ -1,5 +1,7 @@
 # Linear Regression
 
+![alt text](lr.webp "Title")
+
 Linear Regression (LR) is a statistical supervised learning technique to predict the quantitative variable by forming a linear relationship with one or more independent features.
 
 In simple terms, a basic model to solve the problem of Linear Regression (LR) has the following form:
