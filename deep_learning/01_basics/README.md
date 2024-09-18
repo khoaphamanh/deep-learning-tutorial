@@ -84,9 +84,9 @@ w_{t+1} = w_t - \alpha \cdot \frac{dL}{dw}
 $$
 
 Where:
-- **\( w_t \)** is the current weight or parameter value at time step \( t \).
-- **\( \alpha \)** (alpha) is the learning rate, which controls the step size of the update.
-- **\( \frac{dL}{dw} \)** is the derivative (or gradient) of the loss function with respect to the weight \( w \).
+- **$ w_t $** is the current weight or parameter value at time step $t$.
+- **$ \alpha $** (alpha) is the learning rate, which controls the step size of the update.
+- **$\frac{dL}{dw} $** is the derivative (or gradient) of the loss function with respect to the weight $w$.
 
-Initially, we randomly initialize the value of \( w_t \) and keep updating it until \( w_{t+1} \) converges to a certain value, or until a pre-defined number of iterations \( t \) is reached. The minus sign in the formula indicates that we are updating \( w \) in the direction opposite to the gradient of the loss function \( f(w) \). The magnitude of the update is determined by the learning rate \( \alpha \). A small example of SGD will be demonstrated through *sgd.py*, with the function we will observe being \( f(w) = w^2 +2*w -4 \).
+Initially, we randomly initialize the value of  $w_t$ and keep updating it until $w_{t+1}$ converges to a certain value, or until a pre-defined number of iterations $t$ is reached. The minus sign in the formula indicates that we are updating $w$ in the direction opposite to the gradient of the loss function $f(w)$. The magnitude of the update is determined by the learning rate $\alpha$. A small example of SGD will be demonstrated through sgd.py, with the function we will observe being $f(w) = w^2 +2*w -4$.
 
