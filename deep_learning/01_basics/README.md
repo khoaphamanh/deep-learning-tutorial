@@ -50,3 +50,9 @@ In summary, when solving a simple LR problem with one input dimension, the equat
 y = w * x + b
 
 This corresponds to a neural network with one input, one output, and no hidden layers, which is effectively a linear mapping from input to output.
+
+## Metric
+
+To evaluate the effectiveness and optimize the model, we need something called a **loss function**. In the task of Linear Regression (LR), the commonly used loss function is called **Mean Squared Error (MSE)**. It calculates the square of the difference between the predicted value and the true value. The equation for MSE is:
+
+MSE = (1/n) * Σ(y_i - ŷ_i)^2
