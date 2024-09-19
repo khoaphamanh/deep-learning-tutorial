@@ -12,7 +12,7 @@ Learning **Machine Learning (ML)** in general and **Deep Learning (DL)** in part
 ## Installation
 To get started, clone this repository to your local machine:
 ```bash
-cd path/to/your/folder
+cd path/to/your/directory
 git clone git@github.com:khoaphamanh/deep-learning-tutorial.git
 cd deep-learning-tutorial
 ```
