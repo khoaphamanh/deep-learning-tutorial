@@ -21,9 +21,9 @@ At this stage, learners should dive deeper into more complex topics and advanced
 The content of the **intermediate** level includes:
 
 - Regularization Techniques
-- Convolutional Neuralnetwork (CNN)
+- Convolutional Neural Network (CNN)
 - Transfer Learning
-- Recurrent Neural Networks (RNN)
+- Recurrent Neural Network (RNN)
 - Long Short Term Memory (LSTM)
 - Cross Validation 
 - Experiment Tracking
@@ -35,6 +35,6 @@ The advanced level focuses on cutting-edge technologies and requires learners to
 The content of the **advanced** level includes:
 
 - Generative Adversarial Networks (GAN)
-- Autoencoders and Variational Autoencoders
-- Attention Mechanisms and Transformers
+- Autoencoder and Variational Autoencoder
+- Attention Mechanisms and Transformer
 - Vision Transformers
